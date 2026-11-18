@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+data/
+bot_memory.json*
+timmy-v3.json*
+*.log
+*.exe
+backups/
